@@ -1,1 +1,1 @@
-4models to predict bitcoin prices
+4 models to predict bitcoin prices
